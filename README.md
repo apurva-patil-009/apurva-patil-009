@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Apurva Patil
 
-<!--
-**apurva-patil-009/apurva-patil-009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 🧪 Aspiring Software Tester
 
-Here are some ideas to get you started:
+I am a BCA student interested in Software Testing and Quality Assurance.  
+I enjoy finding bugs, designing test cases, and understanding how software works from a user's perspective.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 QA & Testing Skills
+
+- Manual Testing
+- Functional Testing
+- Smoke Testing
+- Sanity Testing
+- Regression Testing
+- Retesting
+- Test Case Design
+- Test Scenario Design
+- Bug Reporting
+- Test Execution
+- SDLC & STLC
+
+## 💻 Technical Skills
+
+- Java
+- Python
+- SQL
+- Git & GitHub
+- Basic Programming
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Manual Testing Project
+
+A complete manual testing project covering:
+
+- Test Planning
+- Test Scenarios
+- Test Cases
+- Test Execution
+- Bug Reporting
+- Regression Testing
+- Test Summary Report
+
+### 🐍 Python Programs
+
+Basic Python programming and problem-solving exercises.
+
+### ☕ Java Programs
+
+Basic Java programming and practice programs.
+
+## 🎯 Currently Learning
+
+- Advanced Software Testing
+- SQL for Testing
+- Automation Testing
+- Selenium
+- API Testing
+
+## 📫 Connect With Me
+
+- LinkedIn: [Apurva Patil](https://www.linkedin.com/in/apurva-patil-477a28366/)
+
+---
+
+⭐ Thank you for visiting my profile!
