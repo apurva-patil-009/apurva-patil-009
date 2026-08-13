@@ -124,12 +124,6 @@ Python programs covering programming fundamentals and problem-solving.
 
 👉 **[View Python Projects](https://github.com/apurva-patil-009)**
 
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurva-patil-009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva-patil-009&layout=compact&theme=tokyonight&hide_border=true" height="180">
-</p>
 
 <h2>🔥 GitHub Contribution Streak</h2>
 
@@ -137,11 +131,6 @@ Python programs covering programming fundamentals and problem-solving.
   <img src="https://streak-stats.demolab.com?user=apurva-patil-009&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
-<h2>🐍 My Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/apurva-patil-009/apurva-patil-009/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
 
 <h2>🎓 Education</h2>
 
